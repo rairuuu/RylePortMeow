@@ -229,6 +229,7 @@ div{
     height: 100vh;
     margin-bottom: -6.6%;
     animation: cober 1s;
+    max-height: fit-content;
     background-attachment: fixed;
 }
 @keyframes cober{
