@@ -21,6 +21,7 @@
     margin: 0;
     height: 100vh;
     animation: cober .75s;
+    max-height: fit-content;
 }
 
 body {
